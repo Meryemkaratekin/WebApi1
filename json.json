@@ -1,0 +1,19 @@
+{
+  {
+    "product_id": 0,
+    "product_name": "string",
+    "price": 0,
+    "img_url": "string",
+    "description": "string",
+    "categoryId": 0, // Sadece categoryId kullanın
+    "basketId": 1, // Sadece basketId kullanın
+    "comments": 0
+      {
+        "id": 0,
+        "description": "string",
+        "rate": 0,
+        "userId": 0, // Sadece userId kullanın
+        "productId": 0 // Sadece productId kullanın
+      }
+    ]
+  }
